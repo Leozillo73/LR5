@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="25f8d68d-a430-45c4-b2ac-9299f7de7014">
+  <producedTypes>
+    <objectType typeId="2211931f-541d-4e74-8e1f-01dd7f5a7c90" valueTypeId="0913ccf6-ea99-45cc-8bcd-4390f9ff5057"/>
+    <refType typeId="73935afe-3448-4e61-b405-8e96da9336f6" valueTypeId="e6c785d1-67af-4552-8e34-2e3c2358ad51"/>
+    <selectionType typeId="3084712e-c8f1-44bf-9914-a9785e789cd8" valueTypeId="b6ac68fe-7023-4c40-b96c-8d43ca1f47a1"/>
+    <listType typeId="ba370447-55f0-4b89-af07-5c9c2ac9b252" valueTypeId="21d1ba17-2250-491c-83bc-d85fd3bdc227"/>
+    <managerType typeId="d944a53b-e24f-4484-b1cb-d5e13df93f5c" valueTypeId="7d33ea9e-b484-43d0-82b5-e54dfc998986"/>
+  </producedTypes>
+  <name>ААваыавыа</name>
+  <synonym>
+    <key>ru</key>
+    <value>А аваыавыа</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ААваыавыа.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ААваыавыа.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
